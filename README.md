@@ -112,7 +112,7 @@ Based on the risk assessment, the system classifies the situation into one of th
 Detected objects are displayed with labeled bounding boxes and confidence scores.
 
 ## 📸 Sample Output
-<img width="803" height="208" alt="Screenshot 2026-04-09 220853" src="https://github.com/user-attachments/assets/7cb76778-7a93-40a0-ab34-ec0a26a60efb" />
+<img width="1103" height="408" alt="Screenshot 2026-04-09 220853" src="https://github.com/user-attachments/assets/7cb76778-7a93-40a0-ab34-ec0a26a60efb" />
 
 ## 💡 Applications
 
